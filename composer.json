@@ -1,0 +1,20 @@
+{
+    "name": "michaeldrennen/polygon-rest",
+    "description": "A PHP library that is a client for the Polygon.io REST API. A Polygon.io account is required.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "nesbot/carbon": "^2.24"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "michaeldrennen",
+            "email": "michaeldrennen74@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
